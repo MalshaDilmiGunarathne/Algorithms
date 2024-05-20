@@ -1,7 +1,4 @@
-package midexamprac;
-import java.util.Scanner;
-
-public class stspattern {
+public class InsertionSortAdd {
 
     public static void main(String[] args) {
         int[] arr = {2, 6, 11, 13};
